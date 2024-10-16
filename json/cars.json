@@ -1,0 +1,38 @@
+[
+    {
+      "brandname": "Toyota",
+      "model": "Corolla",
+      "color": "Blue",
+      "engine": "1.8L",
+      "img": "img/toyotacorolla.jpg"
+    },
+    {
+      "brandname": "Honda",
+      "model": "Civic",
+      "color": "Red",
+      "engine": "2.0L",
+      "img": "img/hondacivic.jpg"
+    },
+    {
+      "brandname": "Ford",
+      "model": "Mustang",
+      "color": "Black",
+      "engine": "5.0L",
+      "img": "img/fordmustang.jpg"
+    },
+    {
+      "brandname": "Chevrolet",
+      "model": "Camaro",
+      "color": "White",
+      "engine": "6.2L",
+      "img": "img/chevroletcamaro.jpg"
+    },
+    {
+      "brandname": "Nissan",
+      "model": "Qashai",
+      "color": "Silver",
+      "engine": "3.7L",
+      "img": "img/nissanqashqai.jpg"
+    }
+  ]
+  
